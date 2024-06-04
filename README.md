@@ -1,5 +1,5 @@
-### Hi, I'm Mahek Kothari! 
+### Hey, I'm Mahek! 
 
-I'm currently a second year data science student @ San Jose State 
-<br>
--> find more info on me and what I've done here https://mahekkothari.github.io
+Currently a second year data science student @ San Jose State 
+
+Learn what I've done here https://mahekkothari.github.io or reach me at mahek.kothari@sjsu.edu
