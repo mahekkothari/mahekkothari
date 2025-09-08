@@ -2,4 +2,4 @@
 
 Currently a data science student @ San Jose State!
 
-reach me @ [mahekkothari.com](https://mahekkothari.com) or kothari.mahek123 [at] gmail.com
+reach me @ [mahekkothari.com](https://mahekkothari.com) or mahekakothari [at] gmail.com
